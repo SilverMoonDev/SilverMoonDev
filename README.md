@@ -19,7 +19,7 @@ I used to make a [Client Mod](https://github.com/SilverMoonDev/VRC-JoanpixerClie
 
 [![My Dev Tools](https://skillicons.dev/icons?i=visualstudio,vscode,unity,blender,photoshop&perline=12)](https://skillicons.dev)
 
-[![My Platforms](https://skillicons.dev/icons?i=github,netlify,linux&perline=12)](https://skillicons.dev)
+[![My Platforms](https://skillicons.dev/icons?i=github,netlify,linux,docker&perline=12)](https://skillicons.dev)
 
 [![My Databases](https://skillicons.dev/icons?i=sqlite,postgres,mysql,mariadb&perline=12)](https://skillicons.dev)
 
